@@ -35,7 +35,6 @@ plugins:
   - jekyll-feed
   - jekyll-coffeescript
   - jekyll-opal
-plugins_dir: ./plugins
 webrick:
   headers:
     My-Header: My-Value
