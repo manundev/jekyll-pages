@@ -1,0 +1,10 @@
+:source-highlighter: rouge
+
+## Testing asciidoc
+
+
+class Test() {
+  void main(String[] args) {
+    //TODO: write code
+  }
+}
