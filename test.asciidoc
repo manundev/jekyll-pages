@@ -1,15 +1,10 @@
-:source-highlighter: rouge
-:rouge-style: monokai
+= The Dangers of Wolpertingers
+:url-wolpertinger: https://en.wikipedia.org/wiki/Wolpertinger
 
-[source%linenums,ruby]
-----
-ORDERED_LIST_KEYWORDS = {
-  'loweralpha' => 'a',
-  'lowerroman' => 'i',
-  'upperalpha' => 'A',
-  'upperroman' => 'I'
-   #'lowergreek' => 'a'
-   #'arabic'     => '1'
-   #'decimal'    => '1'
-}
-----
+Don't worry about gumberoos or splintercats.
+Something far more fearsome plagues the days, nights, and inbetweens.
+Wolpertingers.
+
+== Origins
+
+Wolpertingers are {url-wolpertinger}[ravenous beasts].
