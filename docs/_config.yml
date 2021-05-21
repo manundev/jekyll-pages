@@ -35,6 +35,10 @@ plugins:
   - jekyll-feed
   - jekyll-coffeescript
   - jekyll-opal
+webrick:
+  headers:
+    My-Header: My-Value
+    My-Other-Header: My-Other-Value
 
 # Exclude from processing.
 # The following items will not be processed, by default.
