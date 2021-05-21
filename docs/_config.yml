@@ -34,6 +34,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-coffeescript
+  - jekyll-opal
 
 # Exclude from processing.
 # The following items will not be processed, by default.
