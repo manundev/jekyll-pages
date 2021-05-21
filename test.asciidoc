@@ -1,5 +1,6 @@
 = The Dangers of Wolpertingers
 :url-wolpertinger: https://en.wikipedia.org/wiki/Wolpertinger
+:linkcss:
 
 Don't worry about gumberoos or splintercats.
 Something far more fearsome plagues the days, nights, and inbetweens.
