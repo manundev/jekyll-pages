@@ -1,10 +1,15 @@
 :source-highlighter: rouge
 :rouge-style: monokai
 
-## Testing asciidoc
-
-
-[source,ruby]
+[source%linenums,ruby]
 ----
-puts "Hello, World!"
+ORDERED_LIST_KEYWORDS = {
+  'loweralpha' => 'a',
+  'lowerroman' => 'i',
+  'upperalpha' => 'A',
+  'upperroman' => 'I'
+   #'lowergreek' => 'a'
+   #'arabic'     => '1'
+   #'decimal'    => '1'
+}
 ----
