@@ -1,0 +1,4 @@
+U:RDoc::Attr[iI"restarg:ETI"&Opal::Nodes::PostArgsNode#restarg;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[	I"returns a restarg sexp ;TI"0if we have enough "arguments" - we fill it ;TI"'if not - we populate it with "[]" ;TI"(For post-args: can be provided from;To:RDoc::Markup::Verbatim;	[I"def m(a=1, *b)
+;TI"<post-args = [(:optarg, :a, (:int, 1)), (:restarg, :b)]
+;TI"restarg (:restarg, :b);T:@format0:
+@fileI"%lib/opal/nodes/args/post_args.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Opal::Nodes::PostArgsNode;TcRDoc::NormalClass0

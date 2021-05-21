@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"kwargs:ETI"%Opal::Nodes::PostArgsNode#kwargs;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"8kwargs contains the list of all post-kw* arguments ;TI"3all of them can be processed in the first oder;T:
+@fileI"%lib/opal/nodes/args/post_args.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Opal::Nodes::PostArgsNode;TcRDoc::NormalClass0
