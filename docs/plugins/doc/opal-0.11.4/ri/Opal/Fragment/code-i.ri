@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"	code:ETI"Opal::Fragment#code;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I".String of javascript this fragment holds ;TI"@return [String];T:
+@fileI"lib/opal/fragment.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Opal::Fragment;TcRDoc::NormalClass0

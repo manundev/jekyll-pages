@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"methods:ETI"#Opal::Nodes::ScopeNode#methods;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@used by modules to know what methods to donate to includees;T:
+@fileI"lib/opal/nodes/scope.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Opal::Nodes::ScopeNode;TcRDoc::NormalClass0
