@@ -1,7 +1,0 @@
-U:RDoc::Attr[iI"required_right_args:ETI"2Opal::Nodes::PostArgsNode#required_right_args;TI"R;T:publico:RDoc::Markup::Document:@parts[	o:RDoc::Markup::Paragraph;	[I"Arequired_right_args contains the list of required post args ;TI"like normarg and mlhs arg ;TI"(For post-args: can be provided from;To:RDoc::Markup::Verbatim;	[I"def m(a=1,*b,c)
-;TI"Hpost-args = [(:optarg, :a, (:int, 1)), (:restarg, :b), (:arg, :c)]
-;TI"(required_right_args = [(:arg, :c)]
-;T:@format0o;
-;	[I"#For mlhs: can be provided from;To;;	[I"(*a, b)
-;TI"'required_right_args = [(:arg, :b)];T;0:
-@fileI"%lib/opal/nodes/args/post_args.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Opal::Nodes::PostArgsNode;TcRDoc::NormalClass0
