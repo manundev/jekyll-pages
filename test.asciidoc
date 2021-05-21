@@ -3,8 +3,7 @@
 ## Testing asciidoc
 
 
-class Test() {
-  void main(String[] args) {
-    //TODO: write code
-  }
-}
+[source,ruby]
+----
+puts "Hello, World!"
+----
