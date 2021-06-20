@@ -34,11 +34,12 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-coffeescript
-  - jekyll-opal
+
 webrick:
   headers:
     My-Header: My-Value
     My-Other-Header: My-Other-Value
+
 plugins_dir: ./plugins
 
 # Exclude from processing.
