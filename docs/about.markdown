@@ -15,8 +15,8 @@ You can find the source code for Jekyll at GitHub:
 [jekyll](https://github.com/jekyll/jekyll)
 
 metadata
-{% for repository in site.github.public_repositories %}
-  * [{{ repository.name }}]({{ repository.html_url }})
+{% for v in site.github %}
+  * {{ v }}
 {% endfor %}
 
 
