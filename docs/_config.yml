@@ -44,7 +44,7 @@ webrick:
 # plugins_dir: ./plugins
 
 include:
-    - README.md 
+    - test.md 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
