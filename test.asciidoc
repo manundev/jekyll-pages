@@ -1,9 +1,0 @@
-:source-highlighter: rouge
-
-## Testing asciidoc
-
-
-[source,ruby]
-----
-puts "Hello, World!"
-----
