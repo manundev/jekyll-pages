@@ -44,7 +44,8 @@ webrick:
 # plugins_dir: ./plugins
 
 include:
-    - test.md 
+    - test.md
+    - ../main.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
