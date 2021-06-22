@@ -34,13 +34,14 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-coffeescript
+  - jekyll-optional-front-matter
 
 webrick:
   headers:
     My-Header: My-Value
     My-Other-Header: My-Other-Value
 
-plugins_dir: ./plugins
+# plugins_dir: ./plugins
 
 include:
     - README.md 
