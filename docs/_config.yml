@@ -45,7 +45,8 @@ webrick:
 
 include:
     - test.md
-    - ../main.md
+    - jekyll-pages/main.md
+    - http://127.0.0.1:9090
 
 # Exclude from processing.
 # The following items will not be processed, by default.
